@@ -16,7 +16,7 @@ export const EXPERIENCE_DATA = [
     company: "Central Hudson",
     period: "Previous",
     description: "Engineered a custom SolarWinds 'Modern Dashboard' using SWQL to visualize critical node status for the ITOC team. Developed PowerShell scripts to automate vSphere attribute auditing. Streamlined incident management by tuning alert delays and integrating SolarWinds alerts with ServiceNow.",
-    techStack: ["SolarWinds (SWQL)", "PowerShell", "VMware vSphere", "Active Directory", "SailPoint", "ServiceNow"],
+    techStack: ["SolarWinds (SWQL)", "PowerShell", "VMware vSphere", "Active Directory", , "ServiceNow"],
     icon: "server",
   },
   {
@@ -24,8 +24,8 @@ export const EXPERIENCE_DATA = [
     role: "Help Desk Support",
     company: "SUNY New Paltz",
     period: "Previous",
-    description: "Provided front-line technical resolution for a campus of 7,000+ users. Developed the 'Client-First' communication style that now defines my approach to executive IT support.",
-    techStack: ["ServiceNow", "Hardware Repair", "Remote Support", "User Training"],
+    description: "Provided multi-channel technical support (phone, email, walk-in) for 7,000+ faculty and students. Diagnosed complex issues including classroom A/V failures, malware remediation on personal devices, and campus Wi-Fi connectivity. Managed access for critical platforms like Brightspace (LMS) and performed hardware triage (drive swaps, memory seating) for lab environments.",
+    techStack: ["Team Dynamix", "Hardware Repair", "Software Support", "Debugging", "Customer Service",],
     icon: "support",
   },
 ];
