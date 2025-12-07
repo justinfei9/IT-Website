@@ -96,6 +96,11 @@ function App() {
         </section>
 
       </main>
+      <div className="relative z-10 container mx-auto px-6">
+        <footer className="text-slate-600 text-sm py-8 border-t border-slate-800/50 text-center">
+            <p>© {new Date().getFullYear()} Justin Feinman | Engineered with React & Three.js</p>
+        </footer>
+      </div>
     </div>
   );
 }

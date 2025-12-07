@@ -33,10 +33,6 @@ export const ContactSection: React.FC = () => {
           <p className="text-purple-400/80 font-medium">View Professional Profile</p>
         </a>
       </div>
-      
-      <footer className="mt-24 text-slate-600 text-sm py-8 border-t border-slate-800/50">
-        <p>© {new Date().getFullYear()} Justin Feinman | Engineered with React & Three.js</p>
-      </footer>
     </div>
   );
 };
